@@ -1,0 +1,9 @@
+streamlit
+pandas
+openpyxl
+opencv-python
+numpy
+rapidfuzz
+rapidocr-onnxruntime
+pytesseract
+pillow
